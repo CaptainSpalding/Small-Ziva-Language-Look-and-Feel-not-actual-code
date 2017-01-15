@@ -1,0 +1,31 @@
+@Import
+@Method from Import
+@Method as name_to_use from Library
+
+# coment could just use end dont have to (end this) or (end that)
+
+class Class_Name
+
+    func Func_Name (int a = 3, int b, var c = 7, const pi = 3.14)
+	
+	var chesse = "variables are any type it figure outy itself"
+	str string = "str is string"
+	dec d = 0.123
+	char ch = "A"
+
+	for (start,stop,step):
+	   new_param = float(pi * a)
+    	end
+
+	while (reason,operation,step or not)
+		x += some code
+	end reason
+
+	op (this,that) =>> (that/this) =>> new_op
+	new_op (that/this) <<= (this,that) <<= old_op
+    
+    	return float(pi * a + d).toStr
+
+   end Func_Name
+
+end Class_Name	
